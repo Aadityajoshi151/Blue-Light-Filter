@@ -15,4 +15,4 @@ Single page website:
 
 [Click Here to Download Portable Version (.rar) - No Installation Required](https://github.com/Aadityajoshi151/Blue-Light-Filter/releases/download/1.0/Blue.Light.Filter.-.Portable.rar)
 ## Your Feedback
-Please use the bluelight filter app and if come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the bluelight filter app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
