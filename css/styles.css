@@ -127,5 +127,4 @@ p {
 #counter{
   position: fixed;
   left: 20px;
-  z-index: 1;
 }
